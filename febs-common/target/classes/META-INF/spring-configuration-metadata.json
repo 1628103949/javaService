@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cc.mrbird.common.properties.FebsProperies",
+      "name": "febs",
+      "type": "cc.mrbird.common.properties.FebsProperies"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cc.mrbird.common.properties.FebsProperies",
+      "defaultValue": true,
+      "name": "febs.open-aop-log",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "cc.mrbird.common.properties.FebsProperies",
+      "name": "febs.oss",
+      "type": "cc.mrbird.common.properties.FebsOssProperties"
+    }
+  ]
+}

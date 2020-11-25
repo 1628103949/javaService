@@ -1,0 +1,53 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security",
+      "type": "cc.mrbird.security.properties.FebsSecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.anon-resources-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.code",
+      "type": "cc.mrbird.security.properties.ValidateCodeProperties"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.index-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.login-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.logout-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "defaultValue": 0,
+      "name": "febs.security.remember-me-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.session",
+      "type": "cc.mrbird.security.properties.SessionProperties"
+    },
+    {
+      "sourceType": "cc.mrbird.security.properties.FebsSecurityProperties",
+      "name": "febs.security.social",
+      "type": "cc.mrbird.security.properties.SocialProperties"
+    }
+  ]
+}

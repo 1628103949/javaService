@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/febs.iml" filepath="$PROJECT_DIR$/febs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-common/febs-common.iml" filepath="$PROJECT_DIR$/febs-common/febs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-pack/febs-pack.iml" filepath="$PROJECT_DIR$/febs-pack/febs-pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-quartz/febs-quartz.iml" filepath="$PROJECT_DIR$/febs-quartz/febs-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-security/febs-security.iml" filepath="$PROJECT_DIR$/febs-security/febs-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-system/febs-system.iml" filepath="$PROJECT_DIR$/febs-system/febs-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/febs-web/febs-web.iml" filepath="$PROJECT_DIR$/febs-web/febs-web.iml" />
+    </modules>
+  </component>
+</project>
